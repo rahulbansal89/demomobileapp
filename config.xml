@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.rahul.demomobileapp"
+        version   = "1.0.0">
+
+    <name>Demo Mobile App</name>
+
+    <description>
+        A demo mobile application with PhoneGap.
+    </description>
+
+    <author href="https://rahulbansal.me" email="rahulbansal.171089@gmail.com">
+        Rahul Bansal 
+    </author>
+
+</widget>
